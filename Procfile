@@ -1,1 +1,1 @@
-python tyrexgg.py
+start: python tyrexgg.py
